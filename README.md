@@ -1,6 +1,6 @@
 # ENB Input Disabler for Fallout 4
 
-F4SE port of [enb-input-disabler](https://github.com/doodlum/enb-input-disabler).
+F4SE port of doodlum's [enb-input-disabler](https://github.com/doodlum/enb-input-disabler).
 While ENB's editor is open, the plugin sets Fallout 4's native
 `ControlMap::ignoreKeyboardMouse` flag, following the original mod's approach.
 Closing the editor restores the flag's value from before it opened.
