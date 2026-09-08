@@ -1,0 +1,6 @@
+/build/
+/.xmake/
+/extern/
+/dist/
+/release/
+*.user
